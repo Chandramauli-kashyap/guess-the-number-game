@@ -10,3 +10,12 @@ A fun and simple command-line game built using Python where the user tries to gu
 - User input and validation
 - Feedback on whether the guess is too high or too low
 
+## 🔗 Live Demo
+[Click here to view the project]( https://chandramauli-kashyap.github.io/faq-accordion/)  
+
+## 🛠️ Technologies Used
+- Python 3
+- Built-in random module
+
+## 💡 Author
+[Chandramauli Kashyap](https://www.linkedin.com/in/chandramaulikashyap/)  
